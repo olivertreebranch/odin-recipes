@@ -1,1 +1,1 @@
-Creating a website dedicated to filling out a grocery store recipe list. 
+Creating a website to list out a couple of smoothie bowl recipes. 
